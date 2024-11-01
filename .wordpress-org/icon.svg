@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;">
+    <g id="WCAG-Blue" serif:id="WCAG Blue" transform="matrix(0.967742,0,0,1,0,0)">
+        <rect x="0" y="0" width="310" height="300" style="fill:none;"/>
+        <g transform="matrix(1.65455,3.92175e-16,-4.05248e-16,1.60118,-201.35,-576.333)">
+            <g transform="matrix(0.921554,0,0,0.960661,254.737,519.231)">
+                <path d="M-1.828,-116.129L-62.238,-9.936L-87.251,-44.009" style="fill:none;fill-rule:nonzero;stroke:rgb(0,116,224);stroke-width:15.26px;"/>
+            </g>
+            <g transform="matrix(1.32167,0,0,1.32167,-322.543,33.3337)">
+                <path d="M445.593,366.491C435.011,374.949 421.591,380 407,380C372.781,380 345,352.219 345,318C345,303.409 350.051,289.989 358.509,279.407L346.329,279.407" style="fill:none;stroke:rgb(0,116,224);stroke-width:10.87px;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1.32167,0,0,1.32167,-322.543,33.3337)">
+                <path d="M368.407,269.509C378.989,261.051 392.409,256 407,256C441.219,256 469,283.781 469,318C469,332.591 463.949,346.011 455.491,356.593L467.671,356.593" style="fill:none;stroke:rgb(0,116,224);stroke-width:10.87px;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+    </g>
+</svg>
